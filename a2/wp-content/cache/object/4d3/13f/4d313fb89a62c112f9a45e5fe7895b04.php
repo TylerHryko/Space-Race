@@ -1,0 +1,4 @@
+ XùY<?php exit; ?>a:1:{s:7:"content";a:7:{s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:10:"_edit_lock";a:1:{i:0;s:12:"1507101046:1";}s:40:"_oembed_aca1321d53b040c0815d79323e252ba8";a:1:{i:0;s:137:"<iframe width="525" height="394" src="https://www.youtube.com/embed/p7c-PbfnQuw?feature=oembed" frameborder="0" allowfullscreen></iframe>";}s:45:"_oembed_time_aca1321d53b040c0815d79323e252ba8";a:1:{i:0;s:10:"1507091245";}s:9:"enclosure";a:1:{i:0;s:85:"http://localhost/wp-content/uploads/2017/10/62284main_onesmall2.wav
+265886
+audio/wav
+";}s:40:"_oembed_67ff4a62e95c6974e1ef0d473abea252";a:1:{i:0;s:153:"<iframe width="740" height="555" src="https://www.youtube.com/embed/p7c-PbfnQuw?feature=oembed" frameborder="0" gesture="media" allowfullscreen></iframe>";}s:45:"_oembed_time_67ff4a62e95c6974e1ef0d473abea252";a:1:{i:0;s:10:"1509492579";}}}
